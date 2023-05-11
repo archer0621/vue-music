@@ -1,19 +1,5 @@
 # vue-music
 
-## Project setup
-```
-npm install
-```
+## 个人学习的基于Vue的网易云播放器项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+具体介绍后续更新~~~
